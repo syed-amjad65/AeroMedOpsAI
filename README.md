@@ -1,4 +1,8 @@
-# 🚀 AeroMedOpsAI
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-Enabled-red?logo=streamlit)
+![LangChain](https://img.shields.io/badge/LangChain-AI%20Logic-purple?logo=langchain)
+![License](https://img.shields.io/badge/License-Proprietary-important)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)# 🚀 AeroMedOpsAI
 
 **AeroMedOpsAI** is a cross-domain AI platform for intelligent operations in **healthcare**, **pharmaceutical**, and **aviation** environments. It combines predictive analytics, compliance automation, and real-time dashboards to optimize workflows and reduce operational risk.
 
