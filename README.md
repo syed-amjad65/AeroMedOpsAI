@@ -1,59 +1,55 @@
+# 🚀 AeroMedOpsAI
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Enabled-red?logo=streamlit)
 ![LangChain](https://img.shields.io/badge/LangChain-AI%20Logic-purple?logo=langchain)
 ![License](https://img.shields.io/badge/License-Proprietary-important)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)# 🚀 AeroMedOpsAI
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 **AeroMedOpsAI** is a cross-domain AI platform for intelligent operations in **healthcare**, **pharmaceutical**, and **aviation** environments. It combines predictive analytics, compliance automation, and real-time dashboards to optimize workflows and reduce operational risk.
 
 ---
 
-## 🔧 Core Modules
+## 📌 Recruiter Highlights
 
-- 🏥 **Smart Triage AI** – Patient flow optimization and clinical support
-- 💊 **Cold Chain Monitor** – Real-time temperature tracking for pharma logistics
-- ✈️ **FlightOps AI** – MedEvac routing, AOG recovery, and fleet readiness
-- 📋 **Compliance Tracker** – Automated audit alerts and regulatory mapping
-- 📦 **Inventory Monitor** – Predictive stock control and procurement insights
-- 🔄 **AOG Recovery Assistant** – Aviation-grade dispatch and maintenance planning
-- 🧠 **Regulatory AI Engine** – NLP-powered compliance and pharmacovigilance
+- Real-world alignment with aviation, hospital systems, and pharma logistics  
+- Cloud-ready deployment via Vertex AI and Databricks  
+- Professional-grade dashboards and optimization models  
+- Modular, scalable, and built for impact  
+- Designed for commercial partnerships, consulting, and product leadership roles
 
 ---
 
-## 🧠 Technologies Used
+## 📬 Contact
 
-- **Python**, **FastAPI**, **LangChain**, **Streamlit**
-- **ML/DL models** for forecasting, anomaly detection, and NLP
-- **ERP Integration**: HIS, EMR, SAP, Oracle
-- **IoT**: Cold chain sensors, equipment telemetry
+For collaboration, consulting, or portfolio review, please connect via GitHub or LinkedIn.
 
----
-
-## 📈 Impact Summary
-
-| Metric              | Benefit                                |
-|---------------------|----------------------------------------|
-| ⏱️ Response Time     | 30–50% faster triage and dispatch       |
-| 💰 Cost Savings      | 20–40% reduction in waste and delays    |
-| 📋 Compliance        | 100% audit readiness with AI alerts     |
-| 🌍 Sustainability    | 10–15% carbon reduction in pharma logistics |
-| 🧑‍⚕️ Staff Efficiency | 25–35% workload automation              |
+- **GitHub:** [syedamjad65](https://github.com/syedamjad65)  
+- **LinkedIn:** [Syed Muhammad Amjad](https://www.linkedin.com/in/syed-muhammad-amjad)
+- **wattsapp:**00923352177766
 
 ---
 
-## 👤 Founder
+## ⚖️ License & Ownership
 
-**Syed Muhammad Amjad**  
-Operations & healthcare administration expert with 25+ years across UAE, Saudi Arabia, and Pakistan  
-📧 syedemirates2021@gmail.com  
-📱 +92 335 2177766  
-🔗 [LinkedIn Profile](https://linkedin.com/in/syed-amjad-9b513570)
+This project, **AeroMedOpsAI**, including all its modules and documentation, is the original work of **Syed Muhammad Amjad** and is protected under copyright.
+
+- **Author & Owner:** Syed Muhammad Amjad  
+- **License:** © 2025 Syed Muhammad Amjad. All rights reserved.
+
+### 🔒 Usage Terms
+
+- This repository is made public for **educational, professional, and portfolio review purposes only**.  
+- **Commercial use, redistribution, or replication** of any part of this project **without explicit written permission** from the author is strictly prohibited.  
+- If you wish to collaborate, reference, or build upon this work, please contact the author directly.
 
 ---
 
-## 🔐 Licensing & IP
+## 📚 Attribution & Citation
 
-AeroMedOpsAI is a proprietary platform developed by **Syed Muhammad Amjad**, integrating aviation-grade planning with healthcare and pharma intelligence.
+If you reference AeroMedOpsAI in your work, please cite:
+
+> Syed Muhammad Amjad. AeroMedOpsAI: Unified Intelligent Operations Platform for Aviation, Healthcare, and Pharma. GitHub, 2025.ning with healthcare and pharma intelligence.
 
 > All modules, designs, and workflows are protected under copyright and licensing terms.  
 > © 2025 Syed Muhammad Amjad. All rights reserved.
