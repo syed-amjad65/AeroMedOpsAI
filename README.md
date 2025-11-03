@@ -20,6 +20,7 @@
 
 ---
 
+
 ## 📬 Contact
 
 For collaboration, consulting, or portfolio review, please connect via:
@@ -27,6 +28,7 @@ For collaboration, consulting, or portfolio review, please connect via:
 - **GitHub:** [syedamjad65](https://github.com/syedamjad65)  
 - **LinkedIn:** [Syed Muhammad Amjad](https://www.linkedin.com/in/syed-muhammad-amjad)  
 - **WhatsApp:** [+92 335 2177766](https://wa.me/923352177766)
+
 
 ---
 
@@ -37,6 +39,7 @@ This project, **AeroMedOpsAI**, including all its modules and documentation, is 
 - **Author & Owner:** Syed Muhammad Amjad  
 - **License:** © 2025 Syed Muhammad Amjad. All rights reserved.
 
+
 ### 🔒 Usage Terms
 
 - This repository is made public for **educational, professional, and portfolio review purposes only**.  
@@ -44,6 +47,7 @@ This project, **AeroMedOpsAI**, including all its modules and documentation, is 
 - If you wish to collaborate, reference, or build upon this work, please contact the author directly.
 
 ---
+
 
 ## 📚 Attribution & Citation
 
