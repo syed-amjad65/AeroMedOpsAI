@@ -22,11 +22,11 @@
 
 ## 📬 Contact
 
-For collaboration, consulting, or portfolio review, please connect via GitHub or LinkedIn.
+For collaboration, consulting, or portfolio review, please connect via:
 
 - **GitHub:** [syedamjad65](https://github.com/syedamjad65)  
-- **LinkedIn:** [Syed Muhammad Amjad](https://www.linkedin.com/in/syed-muhammad-amjad)
-- **wattsapp:**00923352177766
+- **LinkedIn:** [Syed Muhammad Amjad](https://www.linkedin.com/in/syed-muhammad-amjad)  
+- **WhatsApp:** +92 335 2177766
 
 ---
 
@@ -49,7 +49,4 @@ This project, **AeroMedOpsAI**, including all its modules and documentation, is 
 
 If you reference AeroMedOpsAI in your work, please cite:
 
-> Syed Muhammad Amjad. AeroMedOpsAI: Unified Intelligent Operations Platform for Aviation, Healthcare, and Pharma. GitHub, 2025.ning with healthcare and pharma intelligence.
-
-> All modules, designs, and workflows are protected under copyright and licensing terms.  
-> © 2025 Syed Muhammad Amjad. All rights reserved.
+> Syed Muhammad Amjad. *AeroMedOpsAI: Unified Intelligent Operations Platform for Aviation, Healthcare, and Pharma*. GitHub, 2025.
