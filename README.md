@@ -26,7 +26,7 @@ For collaboration, consulting, or portfolio review, please connect via:
 
 - **GitHub:** [syedamjad65](https://github.com/syedamjad65)  
 - **LinkedIn:** [Syed Muhammad Amjad](https://www.linkedin.com/in/syed-muhammad-amjad)  
-- **WhatsApp:** +92 335 2177766
+- **WhatsApp:** [+92 335 2177766](https://wa.me/923352177766)
 
 ---
 
