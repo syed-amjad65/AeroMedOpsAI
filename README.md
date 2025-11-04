@@ -7,7 +7,17 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 **AeroMedOpsAI** is a cross-domain AI platform for intelligent operations in **healthcare**, **pharmaceutical**, and **aviation** environments. It combines predictive analytics, compliance automation, and real-time dashboards to optimize workflows and reduce operational risk.
+## ✈️ FlightOpsAI Dashboard Preview
 
+This module analyzes flight delay data and generates root cause insights using LangChain and Streamlit.
+
+### 🔍 Features
+- CSV upload and table display
+- LangChain-powered root cause analysis
+- Markdown summary with percent contribution
+- Bar chart visualization of delay reasons
+
+![FlightOpsAI Dashboard](assets/flightops_dashboard.png)
 ---
 
 ## 📌 Recruiter Highlights
